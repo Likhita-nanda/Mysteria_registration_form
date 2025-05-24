@@ -2,7 +2,7 @@
 A fantasy-themed registration form for the game app Mysteria, featuring gender-based themed pages built with HTML and CSS.
 
 ## 🔗 Live Demo
-[Click here to view the live website](https://yourusername.github.io/mysteria-registration)  
+[Click here to view the live website](https://likhita-nanda.github.io/Mysteria_registration_form/)  
 [GitHub Repository](https://github.com/Likhita-nanda/Mysteria_registration_form)
 
 ## 📝 Features
