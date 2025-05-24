@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>female_registartion</title>
+    <link rel="stylesheet" href="first.css"/>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form>
+        <fieldset>
+            <label for="firstname">Enter First Name:<input placeholder="Jasmine" required id="firstname" name="firstname" type="text"></label>
+            <label for="lastname">Enter Last Name:<input placeholder="Dawson" required id="lastname" name="lastname" type="text"></label>
+            <label for="age">Enter Age:<input min="13" max="80" placeholder="21" required id="age" name="age" type="number"></label>
+            <label for="email">Enter Email:<input placeholder="jasminedawson@gmail.com" required id="email" name="email" type="email"></label>
+            <label for="username">Create New UserName<input pattern="[a-zA-z0-9@_$]" placeholder="jasmine@123" required id="username" name="username" type="text"></label>
+            <label for="password">Create Password<input pattern="[a-zA-z0-9]" placeholder="jasminedawson@123" required id="password" name="password" type="password"></label>
+            
+        </fieldset>
+        <input class="submit" type="submit">
+        <a href="index.html">Home</a>
+    </form>
+    
+    
+</body>
+</html>

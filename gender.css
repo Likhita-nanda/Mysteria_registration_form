@@ -1,0 +1,92 @@
+.left{
+    
+    width:30%;
+   
+    background-image: url("https://i.pinimg.com/736x/cc/88/66/cc88664241e5c7bd53c487e18a614af1.jpg");
+    background-position: center;
+    background-size: cover;
+   background-color: black;
+   border-style: groove;
+}
+.middle{
+   background-color: rgb(0, 0, 0);
+    width:40%;
+    padding-top: 200px;
+    border-top-style:groove ;
+    border-bottom-style: groove;
+    
+   
+    
+}
+.right{
+    background-image: url("https://i.pinimg.com/736x/f3/77/81/f37781f5ae85afef082ae2f437a4220f.jpg");
+    background-position: center;
+    background-size: cover;
+    width:30%;
+    background-color:rgb(11, 11, 11);
+    border-style: groove;
+    
+}
+.container{
+    display: flex;
+    height: 100vh;
+}
+body{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+h1{
+    color:rgb(198, 138, 215);
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    font-family: cursive;
+    font-weight: 900;
+    
+}
+.male{
+    color: aquamarine;
+    margin-left:40%;
+    font-size: 20px;
+    font-family:cursive;
+    
+    
+}
+.male:hover{
+    color: rgb(0, 151, 151);
+}
+.male:active{
+    color: blue;
+}
+.female{
+    color:palevioletred;
+    margin-left:10%;
+    font-size: 20px;
+    font-family:cursive;
+}
+.female:hover{
+    color: rgb(218, 13, 81);
+}
+.female:active{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+    margin-top: 100px;
+    
+}
+.go-back{
+    display: block;
+    margin-top: 150px;
+    margin-left: 50%;
+    font-size: 18px;
+    color: whitesmoke;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+.go-back:hover{
+    color:chocolate;
+}

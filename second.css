@@ -1,0 +1,64 @@
+body{
+    margin: 0 auto;
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://png.pngtree.com/background/20250116/original/pngtree-a-fantasy-world-with-city-on-it-picture-image_15568172.jpg");
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+   
+   
+    
+}
+h1{
+    margin-top:80px;
+    font-family: cursive;
+    color: rgb(15, 15, 61);
+    font-size: 40px;
+}
+form{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-top:2%;  
+    background-color: rgba(134, 207, 220,0.4);
+    margin-top: 60px;
+    font-size: 18px;
+    font-weight: 900;
+    padding-bottom: 2%;
+    font-family: cursive;
+    border-color: aliceblue;
+    border-style: solid;
+    border-width: 0.1cap;
+}
+
+input[type="text"],input[type="email"],input[type="password"],input[type="number"]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 50%;
+    margin-bottom: 6px;
+    margin-top: 2px;
+    height: 18px;
+    
+
+}
+input[type="submit"]{
+    font-family: cursive;
+}
+fieldset{
+    border: none;
+}
+a{  color: black;
+    display: block;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: rgb(3, 46, 50);
+}
+
