@@ -17,7 +17,7 @@ A fantasy-themed registration form for the game app Mysteria, featuring gender-b
 - CSS
 
 ## 📁 Folder Structure
-
+```
 Mysteria_registration_form/
 ├── index.html # Landing page with login and sign-up
 ├── index.css # CSS styling for index page
@@ -27,3 +27,4 @@ Mysteria_registration_form/
 ├── first.css # CSS styling for female registration form
 ├── second.html # male registration form
 ├── second.css # CSS styling for male registration form
+```
